@@ -1,1 +1,0 @@
-word_list = ["mouse", "keyboard", "elephant", "eraser", "headphones", "cellphone", "computer", "book", "library", "project", "coffee", "monster", "suitcase", "sleeve", "heart", "brain", "water", "notebook", "pencil", "money", "wallet", "internship", "camel", "platypus", "horse", "internet", "fridge", "bottle", "window", "curtain"]
